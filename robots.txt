@@ -7,3 +7,4 @@ User-agent: *
 # Disallow: (empty) means that all content on your site is allowed to be crawled.
 # This is equivalent to "Allow: /" but is sometimes preferred for clarity when you mean to allow everything.
 Disallow:
+
