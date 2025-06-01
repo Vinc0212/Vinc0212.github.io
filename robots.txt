@@ -1,0 +1,9 @@
+# Sitemap: Tells search engines where to find your sitemap, which lists all pages you want indexed.
+Sitemap: https://Vinc0212.github.io/DocSite/sitemap.xml
+
+# User-agent: * means these rules apply to all web crawlers (Google, Bing, etc.).
+User-agent: *
+
+# Disallow: (empty) means that all content on your site is allowed to be crawled.
+# This is equivalent to "Allow: /" but is sometimes preferred for clarity when you mean to allow everything.
+Disallow:
